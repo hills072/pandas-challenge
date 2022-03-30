@@ -1,6 +1,6 @@
 # pandas-challenge
 ## Purpose:
-&emsp;To utilize pandas and perform a mock data analysis for fictitious fantasy game “Heroes of Pymoli.” &ensp;Below is a breakdown of the contents of the final report.
+To utilize pandas and perform a mock data analysis for fictitious fantasy game “Heroes of Pymoli.” &ensp;Below is a breakdown of the contents of the final report.
 
 
 
